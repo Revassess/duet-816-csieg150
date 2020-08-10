@@ -1,0 +1,2 @@
+INSERT INTO APP_USER (USER_ID,USERNAME,PASSWORD,FIRST_NAME,LAST_NAME,ROLE_ID) VALUES 
+(900,'csiegfried', 'pass','Christopher','Siegfried',4);
